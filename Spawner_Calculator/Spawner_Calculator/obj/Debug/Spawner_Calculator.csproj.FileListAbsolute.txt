@@ -1,0 +1,11 @@
+C:\Users\lukas\source\repos\Spawner_Calculator\Spawner_Calculator\bin\Debug\Spawner_Calculator.exe.config
+C:\Users\lukas\source\repos\Spawner_Calculator\Spawner_Calculator\bin\Debug\Spawner_Calculator.exe
+C:\Users\lukas\source\repos\Spawner_Calculator\Spawner_Calculator\bin\Debug\Spawner_Calculator.pdb
+C:\Users\lukas\source\repos\Spawner_Calculator\Spawner_Calculator\obj\Debug\Spawner_Calculator.csproj.AssemblyReference.cache
+C:\Users\lukas\source\repos\Spawner_Calculator\Spawner_Calculator\obj\Debug\Spawner_Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\lukas\source\repos\Spawner_Calculator\Spawner_Calculator\obj\Debug\Spawner_Calculator.Form1.resources
+C:\Users\lukas\source\repos\Spawner_Calculator\Spawner_Calculator\obj\Debug\Spawner_Calculator.Properties.Resources.resources
+C:\Users\lukas\source\repos\Spawner_Calculator\Spawner_Calculator\obj\Debug\Spawner_Calculator.csproj.GenerateResource.cache
+C:\Users\lukas\source\repos\Spawner_Calculator\Spawner_Calculator\obj\Debug\Spawner_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\lukas\source\repos\Spawner_Calculator\Spawner_Calculator\obj\Debug\Spawner_Calculator.exe
+C:\Users\lukas\source\repos\Spawner_Calculator\Spawner_Calculator\obj\Debug\Spawner_Calculator.pdb
